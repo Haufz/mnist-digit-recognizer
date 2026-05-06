@@ -87,7 +87,7 @@ Python, TensorFlow/Keras, Pillow, NumPy, Matplotlib, Streamlit
 
 ## Repository
 
-https://github.com/<your-username>/mnist-digit-recognizer
+https://github.com/Haufz/mnist-digit-recognizer
 
 \---
 
