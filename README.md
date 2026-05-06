@@ -39,13 +39,7 @@ Trained with Adam, sparse categorical cross-entropy, early stopping, and ReduceL
 ```bash
 git clone https://github.com/<your-username>/mnist-digit-recognizer.git
 cd mnist-digit-recognizer
-
-
-
-ython -m venv .venv 
-
-&#x20;
-
+Python -m venv .venv 
 .venv\\Scripts\\activate
 pip install -r requirements.txt
 ```
