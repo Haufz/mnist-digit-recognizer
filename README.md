@@ -91,5 +91,5 @@ https://github.com/Haufz/mnist-digit-recognizer
 
 ## License
 
-MIT
+NA
 
